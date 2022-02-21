@@ -1,7 +1,7 @@
 ### 작은 게임 모음집
 ### 게임 목록
-* [learn - 공식 사례](http://game.webxinxin.com/learn/exam8.html)
-* [fruit - 과일을 썰다](http://game.webxinxin.com/fruit/)
+* [별 따먹기](http://game.webxinxin.com/learn/exam8.html)
+* [과일을 썰다](http://game.webxinxin.com/fruit/)
 * [plane - 비행기를 타다](http://game.webxinxin.com/plane/)
 * [flappybird - 깃털새](http://game.webxinxin.com/flappybird/)
 * [weiduan - 상위 위챗 대화 인터페이스](http://game.webxinxin.com/?game=weiduan&id=1)
