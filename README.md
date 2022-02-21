@@ -1,12 +1,4 @@
-### Phaser 기반의 작은 게임 모음집
-Phaser 기반의 작은 게임 모음집입니다. Phaser를 쉽게 배울 수 있도록 하는 것이 목적입니다. 페이저 스테이션 공식 홈페이지도 방문하시면 되고요：[http://www.phaser-china.com/](http://www.phaser-china.com) 
-
-### 소스 코드
-모든 게임의 소스 코드는 해당 폴더에 있습니다. 예를 들어 fruit- 과일 자르기, 소스 코드는 fruit 폴더에 있습니다.
-
-### Phaser3
-Phaser3 신규사례가 추가되었으며, 목록 뒤에 3이 있는 것은 모두 Phaser3 게임입니다.
-
+### 작은 게임 모음집
 ### 게임 목록
 * [learn - 공식 사례](http://game.webxinxin.com/learn/exam8.html)
 * [fruit - 과일을 썰다](http://game.webxinxin.com/fruit/)
@@ -96,15 +88,4 @@ Phaser3 신규사례가 추가되었으며, 목록 뒤에 3이 있는 것은 모
 * [manna - 하늘이 복을 내리다](http://game.webxinxin.com/manna)
 * [scaldfish - 생선을 데우다](http://game.webxinxin.com/scaldfish)
 * [getthestarforyou - 널 위해 별을 따줄게](http://game.webxinxin.com/getthestarforyou)
-
-### 문제 피드백
-질문이 있으시면, 저에게 피드백을 주시면, 아래와 같은 연락처로 저와 교류할 수 있습니다.
-
-* 위챗: xin874058
-* QQ: 396417401
-* 저자 블로그: [channingbreeze](http://www.channingbreeze.com/)
-* QQ 아이디: 519413640
-
-### 라이선스
-MIT 라이선스
 
