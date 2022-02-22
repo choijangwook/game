@@ -8,11 +8,10 @@
 * [테트리스, 손 또는 마우스로 판을 뒤집어가며, 아래있는 불록을 줄여 나간다](http://game.webxinxin.com/eliminate)
 * [로봇 앞으로 돌진, 손 또는 마우스로 폭탄을 피해가며 앞으로 전진한다](http://game.webxinxin.com/runrobot)
 * [유리 닦기, 손 또는 마우스로 유리를 닦아주면 사람얼굴이 나온다](http://game.webxinxin.com/wipeglass)
-* [벌목돼지, 손 또는 마우스로 나무를 벌목한다](http://game.webxinxin.com/timberpig)
 * [징검다리 넘기, 손 또는 마우스로 징검다리가 나타나면 껑충껑충 넘는다](http://game.webxinxin.com/jumpone)
 * [새가 날아가기, 새를 손 또는 마우스로 잡아서 좁은 통로에 부딪히지 않게 잘 조정해서 나아간다](http://game.webxinxin.com/flappybird3)
 * [벽돌깨기, 손 또는 마우스를 좌우로 움직여 벽돌을 깬다](http://game.webxinxin.com/breakout3)
 * [칼던지기, 손 또는 마우스를 눌러 나무를 맞춘다](http://game.webxinxin.com/knifehit3)
 * [공떨어뜨릴때 점수 많이 얻기, 손 또는 마우스로 공 떨어지는 방향을 잘 조정하여 많은 점수를 얻도록 한다](http://game.webxinxin.com/p2ball)
 * [코인얻기, 손 또는 마우스를 좌우로 움직여 코인만 취득한다](http://game.webxinxin.com/getcoins3)
-* [널 위해 별을 따줄게, 손 또는 마우스로 아이를 꼭 잡고 위로 올리면서 별만 딴다](http://game.webxinxin.com/getthestarforyou)
+
