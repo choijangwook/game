@@ -1,5 +1,5 @@
 * [별 따먹기](http://game.webxinxin.com/learn/exam8.html)
-* [미우스로 과일을 썬다](http://game.webxinxin.com/fruit/)
+* [마우스로 과일을 썬다](http://game.webxinxin.com/fruit/)
 * [비행기 맞추기](http://game.webxinxin.com/plane/)
 * [깃털새 땅에 안떨어뜨리기](http://game.webxinxin.com/flappybird/)
 * [위챗 대화](http://game.webxinxin.com/?game=weiduan&id=1)
