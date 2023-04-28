@@ -1,4 +1,3 @@
-### 게임 목록
 * [별 따먹기](http://game.webxinxin.com/learn/exam8.html)
 * [미우스로 과일을 썬다](http://game.webxinxin.com/fruit/)
 * [비행기 맞추기](http://game.webxinxin.com/plane/)
