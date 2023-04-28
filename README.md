@@ -1,23 +1,3 @@
-### 아래에서 게임을 선택해 주세요.
-
-* [<span style="color:red">***테트리스핑퐁, 좌우로 움직여 공을 맞춘다***</span>](http://game.webxinxin.com/quitsmoke)
-* [<span style="color:red">***우주선전쟁, 좌우로 움직여 총을 발사한다***</span>](http://game.webxinxin.com/starship)
-* [<span style="color:red">***번호판추첨, 가운데를 눌러 번호판을 돌린다***</span>](http://game.webxinxin.com/prize)
-* [<span style="color:red">***테트리스, 판을 뒤집어가며, 같은색상 블록 2개이상을 누르면서 갇혀있는 사물을 없애면 성공입니다***</span>](http://game.webxinxin.com/eliminate)
-* [<span style="color:red">***벽돌깨기, 좌우로 움직여 벽돌을 깬다***</span>](http://game.webxinxin.com/breakout3)
-* [<span style="color:red">***칼던지기, 나무에 많이 꽂도록 잘 던진다***</span>](http://game.webxinxin.com/knifehit3)
-* [<span style="color:red">***공떨어뜨리기, 공 떨어지는 방향을 잘 조정하여 많은 점수를 얻도록 한다***</span>](http://game.webxinxin.com/p2ball)
-
-
-### Phaser 기반의 작은 게임 모음집
-Phaser 기반의 작은 게임 모음집입니다. Phaser를 쉽게 배울 수 있도록 하는 것이 목적입니다. 페이저 스테이션 공식 홈페이지도 방문하시면 되고요：[http://www.phaser-china.com/](http://www.phaser-china.com) 
-
-### 소스 코드
-모든 게임의 소스 코드는 해당 폴더에 있습니다. 예를 들어 fruit- 과일 자르기, 소스 코드는 fruit 폴더에 있습니다.
-
-### Phaser3
-Phaser3 신규사례가 추가되었으며, 목록 뒤에 3이 있는 것은 모두 Phaser3 게임입니다.
-
 ### 게임 목록
 * [learn - 공식 사례](http://game.webxinxin.com/learn/exam8.html)
 * [fruit - 과일을 썰다](http://game.webxinxin.com/fruit/)
@@ -33,7 +13,7 @@ Phaser3 신규사례가 추가되었으며, 목록 뒤에 3이 있는 것은 모
 * [breaklovers - 헤어지는 커플](http://game.webxinxin.com/breaklovers)
 * [puzzle - 퍼즐을 맞추다.](http://game.webxinxin.com/puzzle)
 * [hitball - 구슬을 튕기다](http://game.webxinxin.com/hitball)
-* [quitsmoke - 담배 피우지 마세요](http://game.webxinxin.com/quitsmoke)
+* [테트리스핑퐁, 좌우로 움직여 공을 맞춘다](http://game.webxinxin.com/quitsmoke)
 * [circlepath - 위로 올라가다](http://game.webxinxin.com/circlepath)
 * [downfloor - 아래층으로 내려가다](http://game.webxinxin.com/downfloor)
 * [rpgdemo - RPG 데모](http://game.webxinxin.com/rpgdemo)
@@ -66,12 +46,12 @@ Phaser3 신규사례가 추가되었으며, 목록 뒤에 3이 있는 것은 모
 * [justshoot - 연란 칠진](http://game.webxinxin.com/justshoot)
 * [magicplain - 폭탄인간](http://game.webxinxin.com/magicplain)
 * [russianblock - 러시안 블록](http://game.webxinxin.com/russianblock)
-* [starship - 스타 우주선](http://game.webxinxin.com/starship)
+* [우주선전쟁, 좌우로 움직여 총을 발사한다](http://game.webxinxin.com/starship)
 * [minorminer - 광부](http://game.webxinxin.com/minorminer)
 * [shenjingmao - 신경고양이를 에워싸다](http://game.webxinxin.com/shenjingmao)
 * [jump - 뛰어오르다](http://game.webxinxin.com/jump)
-* [prize - 추첨하다](http://game.webxinxin.com/prize)
-* [eliminate - 영웅소멸락](http://game.webxinxin.com/eliminate)
+* [번호판추첨, 가운데를 눌러 번호판을 돌린다](http://game.webxinxin.com/prize)
+* [테트리스, 판을 뒤집어가며, 같은색상 블록 2개이상을 누르면서 갇혀있는 사물을 없애면 성공입니다](http://game.webxinxin.com/eliminate)
 * [swordart - 칼던지기](http://game.webxinxin.com/swordart)
 * [catapult - 가로판 새총놀이](http://game.webxinxin.com/catapult)
 * [lottery - 로또](http://game.webxinxin.com/lottery)
@@ -95,10 +75,10 @@ Phaser3 신규사례가 추가되었으며, 목록 뒤에 3이 있는 것은 모
 * [twowar - 두왕의 전쟁](http://game.webxinxin.com/twowar)
 * [learn3 - 3명 배우기3](http://game.webxinxin.com/learn3)
 * [flappybird3 - 깃털새3](http://game.webxinxin.com/flappybird3)
-* [breakout3 - 벽돌을 찧다3](http://game.webxinxin.com/breakout3)
-* [knifehit3 - 칼로 치기3](http://game.webxinxin.com/knifehit3)
+* [벽돌깨기, 좌우로 움직여 벽돌을 깬](http://game.webxinxin.com/breakout3)
+* [칼던지기, 나무에 많이 꽂도록 잘 던진다](http://game.webxinxin.com/knifehit3)
 * [bottle3 - 병을 떨어뜨리다3](http://game.webxinxin.com/bottle3)
-* [p2ball - p2공](http://game.webxinxin.com/p2ball)
+* [공떨어뜨리기, 공 떨어지는 방향을 잘 조정하여 많은 점수를 얻도록 한다](http://game.webxinxin.com/p2ball)
 * [40963 - 40963](http://game.webxinxin.com/40963)
 * [getcoins3 - 코인얻기3](http://game.webxinxin.com/getcoins3)
 * [hitgraywolf3 - 갈색늑대 때리기3](http://game.webxinxin.com/hitgraywolf3)
@@ -108,14 +88,20 @@ Phaser3 신규사례가 추가되었으며, 목록 뒤에 3이 있는 것은 모
 * [scaldfish - 생선을 데우다](http://game.webxinxin.com/scaldfish)
 * [getthestarforyou - 널 위해 별을 따줄게](http://game.webxinxin.com/getthestarforyou)
 
-### 문제 피드백
-질문이 있으시면, 저에게 피드백을 주시면, 아래와 같은 연락처로 저와 교류할 수 있습니다.
-
+### 비고
 * 위챗: xin874058
 * QQ: 396417401
-* 저자 블로그: [channingbreeze](http://www.channingbreeze.com/)
+* 블로그: [channingbreeze](http://www.channingbreeze.com/)
 * QQ 아이디: 519413640
 
+### Phaser 기반의 작은 게임 모음집
+Phaser 기반의 작은 게임 모음집입니다. Phaser를 쉽게 배울 수 있도록 하는 것이 목적입니다. 페이저 스테이션 공식 홈페이지도 방문하시면 되고요：[http://www.phaser-china.com/](http://www.phaser-china.com) 
+
+### 소스 코드
+모든 게임의 소스 코드는 해당 폴더에 있습니다. 예를 들어 fruit- 과일 자르기, 소스 코드는 fruit 폴더에 있습니다.
+
+### Phaser3
+Phaser3 신규사례가 추가되었으며, 목록 뒤에 3이 있는 것은 모두 Phaser3 게임입니다.
 
 
 
