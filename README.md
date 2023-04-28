@@ -88,25 +88,6 @@
 * [생선을 데우다](http://game.webxinxin.com/scaldfish)
 * [널 위해 별을 따줄게](http://game.webxinxin.com/getthestarforyou)
 
-### 비고
-* 위챗: xin874058
-* QQ: 396417401
-* 블로그: [channingbreeze](http://www.channingbreeze.com/)
-* QQ 아이디: 519413640
-
-### Phaser 기반의 작은 게임 모음집
-Phaser 기반의 작은 게임 모음집입니다. Phaser를 쉽게 배울 수 있도록 하는 것이 목적입니다. 페이저 스테이션 공식 홈페이지도 방문하시면 되고요：[http://www.phaser-china.com/](http://www.phaser-china.com) 
-
-### 소스 코드
-모든 게임의 소스 코드는 해당 폴더에 있습니다. 예를 들어 fruit- 과일 자르기, 소스 코드는 fruit 폴더에 있습니다.
-
-### Phaser3
-Phaser3 신규사례가 추가되었으며, 목록 뒤에 3이 있는 것은 모두 Phaser3 게임입니다.
-
-
-
-
-
 
 
 
